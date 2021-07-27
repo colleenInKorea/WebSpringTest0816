@@ -1,4 +1,4 @@
-package com.ledgy98.hello;
+package com.ledgy98.spring.hello;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
